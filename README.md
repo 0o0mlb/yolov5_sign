@@ -3,6 +3,8 @@
 
 [yolov5](https://github.com/ultralytics/yolov5)
 
+
+
 - modeling
 
 in colab
@@ -10,6 +12,8 @@ in colab
 input : labelImg.exe을 통해 bbox 수작업을 한 txt와 img
 
 output : 모델인 best.pt파일
+
+
 
 - test
 
